@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nom": "Jus d'orange",
+        "prix": 2.5,
+        "imageSrc": "jusorange.png"
+    },
+    {
+        "id": 2,
+        "nom": "Café",
+        "prix": 2.8,
+        "imageSrc": "cafe.png"
+    },
+    {
+        "id": 3,
+        "nom": "Sucre",
+        "prix": 1.5,
+        "imageSrc": "sucre.png"
+    },
+    {
+        "id": 4,
+        "nom": "Eau",
+        "prix": 1.1,
+        "imageSrc": "eau.png"
+    }
+]

@@ -1,0 +1,7 @@
+section{
+    display:flex;
+}
+
+article img{
+    width: 150px;
+}
